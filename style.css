@@ -34,13 +34,13 @@ a:hover{ text-decoration:none; }
 .navbar-default .navbar-nav>.active>a{ background-color:#EEEEEE ; color:#9ECA45 !important;   margin-right: 2px;  margin-left: 2px;}
 .dropdown-menu{padding: 0px;}
 .wpm_logo{width: auto;  height: 60px; margin-top:5px; }
-.navbar-brand{padding:0px;} 
+.navbar-brand{padding:0px;}
 .wpm_navber{ background:none; border:none; margin-bottom:0px;}
 .wpm_menu li a{ font-size:16px; color:#454545 !important;    font-weight: 400;  font-size: 14px;  line-height: 18px; padding-top: 25px;   padding-bottom: 25px;}
 .wpm_menu li a:hover{ background:#EEEEEE !important; color:#9ECA45 !important; }
 
 .top_header{
-	display:none;	
+	display:none;
 }
 
 
@@ -282,7 +282,7 @@ a:hover{ text-decoration:none; }
 .name a{ font-size:18px; color:#9ECA45; text-decoration:none; padding-bottom:5px; display:inline-block; }
 .carousel-indicators { background: #9ECA45; bottom: -50px; width: 64px; margin: 0 auto; padding: 5px 10px; -webkit-border-radius: 5px;
   -moz-border-radius: 5px; border-radius: 5px; left: 46%;}
-  
+
 
 
 /************ index content end***************/
@@ -312,7 +312,7 @@ a:hover{ text-decoration:none; }
 .sub_titel{ font-size:18px; color:#4C4747; margin-bottom:70px; }
 .service_area i{ font-size:62px; color:#4C4747; font-weight:700; line-height: 26px;  }
 .service_area h4{ font-size:18px; color: #9ECA45;  font-weight:700; margin:20px 0px 10px;}
-.service_area h5{  font-size:14px; color: #9ECA45; font-weight:700; margin-bottom:25px;} 
+.service_area h5{  font-size:14px; color: #9ECA45; font-weight:700; margin-bottom:25px;}
 .service_area p{   font-weight:400; font-size:16px; line-height:26px; color:#4C4747; margin: 0 0 25px;}
 .wpm_read_btn{ background:#9ECA45; font-size:13px; color:#FFF; padding:10px 15px; border:none;}
 .wpm_read_btn:hover{ background:#84a83a; color:#FFF; border:none;}
@@ -414,10 +414,13 @@ a:hover{ text-decoration:none; }
 
 
 
-.wpm_frooter_ending{ width:100%; background-color:#212121; padding:15px 0px; color:#888;} 
+.wpm_frooter_ending{ width:100%; background-color:#212121; padding:15px 0px; color:#888;}
 .wpm_frooter_ending p{ font-size: 14px; color:#FFF; padding-top:5px;}
 .wpm_frooter_list{ margin-left:187px;}
 .wpm_frooter_ending a{ color:#CCC; margin-left:10px;}
 .wpm_frooter_ending a:hover{ color:#9ECA45;}
 
+.copytext {
+	visibility: hidden, !important;
+}
 /************ footer end***************/
