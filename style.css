@@ -18,6 +18,10 @@ a:hover{ text-decoration:none; }
 .got{
   margin-left: 55px;
 }
+.inline{
+ display: inline-block;
+}
+
 
 /************ header top start***************/
 .wpm_header_top{ width:100%; background:#EEEEEE; padding:5px 0px; color:#454545;}
