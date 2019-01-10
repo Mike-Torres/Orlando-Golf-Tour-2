@@ -9,7 +9,10 @@ p{ margin:0; padding:0; color:#848484; font-size: 14px;}
 .row{ 	max-width:1170px; 	margin:auto;}
 img{ width:100%; max-width:100%; height:auto; display:block;}
 a:hover{ text-decoration:none; }
-
+@font-face {
+	font-family: racingsansoneimport;
+	src: url(racingsansone);
+}
 .block{
 	display: inline-block;
 	padding: 6px;
@@ -17,14 +20,18 @@ a:hover{ text-decoration:none; }
 .got{
 	margin-left: 130px;
 }
-.font{
-	font-family: fantasy;
-	font-size: 46px;
-	font-style: italic;
-}
+
+
 .margin{
 	margin-right: 40px;
 }
+.jumbo{
+	font-family: 'Racing Sans One', cursive;
+	font-size: 46px;
+	font-style: italic;
+	font-weight: bold;
+}
+
 
 .center{
 	text-align: center;
