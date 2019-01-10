@@ -10,13 +10,30 @@ p{ margin:0; padding:0; color:#848484; font-size: 14px;}
 img{ width:100%; max-width:100%; height:auto; display:block;}
 a:hover{ text-decoration:none; }
 
+.block{
+	display: inline-block;
+	padding: 6px;
+}
+.got{
+	margin-left: 130px;
+}
 .font{
 	font-family: fantasy;
 	font-size: 46px;
 	font-style: italic;
 }
+.margin{
+	margin-right: 40px;
+}
 
+.center{
+	text-align: center;
+}
+.margin-top{
+	margin-top: 3px;
+}
 
+}
 /************ header top start***************/
 .wpm_header_top{ width:100%; background:#EEEEEE; padding:5px 0px; color:#454545;}
 .wpm_header_top .col-sm-7{ padding-top: 5px; }
